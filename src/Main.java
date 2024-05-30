@@ -6,11 +6,11 @@ public class Main {
 // Literal 2, 3
         Hotel hotel2 = new Hotel("Bellavista", "Bellavista", 3); //
 
-        Hotel hotel3 = new Hotel("Marriot", "Guayaquil guasmo", 5); //
+        Hotel hotel3 = new Hotel("Marriot", "Quito Norte san Roque", 5); //
 
         Hotel hotel4 = new Hotel("Fenix", "Cuenca, centro", 2); //
 
-        Hotel hotel5 = new Hotel("Hotel Ppito", "Quito-San roque", 4);
+        Hotel hotel5 = new Hotel("Todo felicidad", "Quito-San roque", 4);
 // Literal 2, 3
         // Crear dos objetos con valores nulos y luego establecer sus
         Hotel hotel6 = new Hotel();

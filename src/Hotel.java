@@ -43,7 +43,7 @@ public class Hotel {
         System.out.println("El hotel: " + nombre); // Literal 4b
         System.out.println("Ubicado en: " + direccion); // Literal 4b
         System.out.println(" cuenta con calificacion de: " +
-                estrellas+ " estrellas"); // Literal 4b
+                estrellas+ " estrellas, si es baja no iras hijo de dios"); // Literal 4b
     }
 }
 
