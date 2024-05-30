@@ -38,7 +38,7 @@ public class Hotel {
         this.direccion = direccion;
         this.estrellas = estrellas;
     }
-    // Metodo personalizado para imprimir la información del hotel
+    // Metodo personaliado para imprimir la información del hotel
     public void imprimirHotel() { // Literal 4b
         System.out.println("El hotel: " + nombre); // Literal 4b
         System.out.println("Ubicado en: " + direccion); // Literal 4b
