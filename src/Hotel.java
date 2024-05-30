@@ -1,9 +1,9 @@
 //ANGEL VILLAMIL
     public class Hotel {
         // Atributos
-        private String nombre;
-        private String direccion;
-        private int estrellas;
+         String nombre;
+         String direccion;
+         int estrellas;
         // Constructor por defecto o vacio
         public Hotel() {}
         // Realizamos un constructor con parametros
